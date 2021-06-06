@@ -44,7 +44,8 @@ INSERT INTO `etat` (`id`, `libelle`) VALUES
 ('CL', 'Saisie clôturée'),
 ('CR', 'Fiche créée, saisie en cours'),
 ('RB', 'Remboursée'),
-('VA', 'Validée et mise en paiement');
+('VA', 'Validée et mise en paiement'),
+('MP', 'Mise en paiement');
 
 -- --------------------------------------------------------
 
